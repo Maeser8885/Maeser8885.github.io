@@ -9,7 +9,7 @@ There are two types of Frogs.
 Real frogs,
 **insert image here**
 and *Minecraft* frogs.
-**insert image here**
+![FrogPhoto](/assets/Cold_Frog_JE1_BE1.webp }})
 
 Which one do you think is cuter.... Exactly!
 They are just better in every way.
