@@ -7,7 +7,7 @@ categories: OffTopic
 
 There are two types of Frogs.
 Real frogs,
-![realfrog](/assets/frog-Va4lJ52-600.jpg)
+![realfrog](/assets/frog-Va4lJ52-600.jpg){: width="250" }{: height="250" }
 and *Minecraft* frogs.
 ![mcfrog]({{"/assets/Cold_Frog_JE1_BE1.webp"}})
 Which one do you think is cuter.... Exactly!
