@@ -12,7 +12,7 @@ Real frogs,
 
 and *Minecraft* frogs.
 
-![mcfrog](/assets/frog-Va4lJ52-600.jpg)
+![mcfrog](/assets/Cold_Frog_JE1_BE1.png)
 
 Which one do you think is cuter.... Exactly!
 They are just better in every way.
