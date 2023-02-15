@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Testing Jekyll!!!"
-date:   2022-02-03 7:11
-categories: FRC
----
-
-This is a sample blog post!

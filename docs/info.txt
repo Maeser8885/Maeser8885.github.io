@@ -1,0 +1,7 @@
+Sponsors:
+all images have links
+Copper - 24% width inline
+Silver - 32% width inline
+Gold - 49% width inline
+Diamond - full size (100% width)
+
